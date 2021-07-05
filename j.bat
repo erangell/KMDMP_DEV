@@ -1,0 +1,1 @@
+C:\Progra~2\Java\jdk1.8.0_112\bin\javac -classpath . -Xlint:deprecation -Xlint:unchecked %1.java > %1.out 2>%1.err
